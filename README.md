@@ -5,3 +5,4 @@ a doua modificare in Visual studio code
 
 
 dute in pzm iulia
+<!DOCTYPE>

@@ -1,0 +1,14 @@
+div{border: 10px solid black;
+    outline-style: solid;
+    outline-color: red;
+    outline-width: 15px;
+    padding: 20px;
+    height: 250px;
+    width: 250px;
+    overflow: left;
+    padding: 20px;
+    margin: 5px;
+    float: left;
+    overflow: scroll;
+    
+}
